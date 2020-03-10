@@ -17,8 +17,7 @@ namespace Calculator
 
             Console.WriteLine();
 
-            Console.Write("Input Nomor Menu = ");
-            int opt = int.Parse(Console.ReadLine());
+            
 
             Console.WriteLine();
 
